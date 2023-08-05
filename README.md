@@ -5,7 +5,7 @@
   </a>
 </h1>
 <!-- About me -->
-## About Me
+### About Me
 
 I'm an aspiring software engineer and data scientist 👨‍💻 with a passion for problem-solving and developing intuitive solutions. 
 
@@ -19,7 +19,7 @@ When I'm not working on projects, you can find me playing chess 🎸 or enjoying
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KevinStreetCoder)
 
 <!-- Tech stack -->
-## Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
