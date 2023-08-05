@@ -1,6 +1,6 @@
 <!-- Add animated title -->
 
-<h1 align="center">
+<h1 align="center" style="padding: 0 100px;">
 
 <a href="https://git.io/typing-svg">
 
