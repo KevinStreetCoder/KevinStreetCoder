@@ -5,7 +5,7 @@
   </a>
 </h1>
 <!-- About me -->
-### About Me
+![About Me](https://img.shields.io/badge/About-Me-purple?style=for-the-badge)
 
 I'm an aspiring software engineer and data scientist 👨‍💻 with a passion for problem-solving and developing intuitive solutions. 
 
