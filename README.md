@@ -32,9 +32,7 @@ When I'm not working on projects, you can find me playing guitar 🎸 or enjoyin
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 
