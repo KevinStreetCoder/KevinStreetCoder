@@ -40,7 +40,7 @@ When I'm not working on projects, you can find me playing guitar 🎸 or enjoyin
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-![NoSQL](https://img.shields.io/badge/-NoSQL-D1203A?style=flat&logo=mongodb&logoColor=white)  ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)!  [Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-D1203A?style=flat&logo=mongodb&logoColor=white)  ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
