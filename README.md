@@ -68,10 +68,6 @@ Software engineer based in Nairobi. I build backend systems for development fina
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinStreetCoder&theme=github-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KevinStreetCoder&theme=gruvbox&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
 <p align="center"><i>Open to backend, payments and platform roles — remote or Nairobi-based.</i></p>
